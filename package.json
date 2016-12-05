@@ -1,0 +1,20 @@
+{
+  "name": "midi-controller-css",
+  "main": "./lib/index",
+  "version": "0.1.0",
+  "description": "Use Korg NanoKontrol 2 to edit your css files",
+  "keywords": [
+    "midi",
+    "css",
+    "korg",
+    "nanokontrol"
+  ],
+  "repository": "https://github.com/dimitrinicolas/midi-controller-css",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "postcss": "^5.2.6"
+  }
+}
