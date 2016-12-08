@@ -1,7 +1,7 @@
 # Midi Controller Css
 
-I type a lot of css, so I bought a Korg NanoKontrol 2 and built this 	
-lovely Atom package.
+I type a lot of css, so I bought a Korg NanoKontrol 2 and built this lovely Atom package.
+Each column of buttons controls the values of one css property, and each slider sets the px/percent/... values.
 
 ![Demo](demo.gif)
 
