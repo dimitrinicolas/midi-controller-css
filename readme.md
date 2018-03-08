@@ -13,3 +13,7 @@ Each column of buttons controls the values of one css property, and each slider 
 You can have a look at [lib/actions.js](lib/actions.js) for a complete list of features.
 
 PS: Most of the snippets only works with some popular PostCSS plugins, you can check my list on my [personnal front-end framework](https://github.com/dimitrinicolas/marmwork/blob/master/build/postcss.config.js).
+
+With some helpers:
+
+![Korg NanoKontrol 2](photo2.jpg)
