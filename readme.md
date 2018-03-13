@@ -8,7 +8,7 @@ This usb midi controller is costless and very complete for its size. I bought a 
 
 You can have a look at [lib/actions.js](lib/actions.js) for a complete list of features.
 
-PS: Most of the snippets only works with some popular PostCSS plugins, you can check my list on my [personnal front-end framework](https://github.com/dimitrinicolas/marmwork/blob/master/build/postcss.config.js).
+PS: Most of the snippets only works with some popular PostCSS plugins, you can check my list on my [personnal front-end framework](https://github.com/dimitrinicolas/front-end-stack/blob/master/build/postcss.config.js).
 
 ![Korg NanoKontrol 2](assets/readme/photo.jpg)
 
